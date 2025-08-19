@@ -1,0 +1,832 @@
+{
+  "total_projects": 137,
+  "successful_downloads": 136,
+  "failed_downloads": 1,
+  "download_date": "2025-08-18 15:20:46",
+  "source_url": "https://oppla.eu/case-study-finder",
+  "successful_files": [
+    {
+      "title": "Ecological Restoration Coastal Dunes And Rewilding Vinhas River",
+      "link": "https://oppla.eu/invest4nature/case-study/ecological-restoration-coastal-dunes-and-rewilding-vinhas-river",
+      "filename": "002_Ecological_Restoration_Coastal_Dunes_And_Rewilding_Vinhas_River.html",
+      "filepath": "raw_html_data\\002_Ecological_Restoration_Coastal_Dunes_And_Rewilding_Vinhas_River.html"
+    },
+    {
+      "title": "Climate Change Adaptation And Resilience Through Natural Capital And Forest Management",
+      "link": "https://oppla.eu/invest4nature/case-study/climate-change-adaptation-and-resilience-through-natural-capital-and-forest-management",
+      "filename": "003_Climate_Change_Adaptation_And_Resilience_Through_Natural_Capital_And_Forest_Mana.html",
+      "filepath": "raw_html_data\\003_Climate_Change_Adaptation_And_Resilience_Through_Natural_Capital_And_Forest_Mana.html"
+    },
+    {
+      "title": "Creating Climate Resilient City Through Open Green Spaces",
+      "link": "https://oppla.eu/invest4nature/case-study/creating-climate-resilient-city-through-open-green-spaces",
+      "filename": "004_Creating_Climate_Resilient_City_Through_Open_Green_Spaces.html",
+      "filepath": "raw_html_data\\004_Creating_Climate_Resilient_City_Through_Open_Green_Spaces.html"
+    },
+    {
+      "title": "Cooperating People And Nature Afforestation Rural And Suburban Landscapes",
+      "link": "https://oppla.eu/invest4nature/case-study/cooperating-people-and-nature-afforestation-rural-and-suburban-landscapes",
+      "filename": "005_Cooperating_People_And_Nature_Afforestation_Rural_And_Suburban_Landscapes.html",
+      "filepath": "raw_html_data\\005_Cooperating_People_And_Nature_Afforestation_Rural_And_Suburban_Landscapes.html"
+    },
+    {
+      "title": "Blue Forest Ecosystem Restoration Along Coast Norway",
+      "link": "https://oppla.eu/invest4nature/case-study/blue-forest-ecosystem-restoration-along-coast-norway",
+      "filename": "006_Blue_Forest_Ecosystem_Restoration_Along_Coast_Norway.html",
+      "filepath": "raw_html_data\\006_Blue_Forest_Ecosystem_Restoration_Along_Coast_Norway.html"
+    },
+    {
+      "title": "Interlace Project Portoviejo Ecuador Using Nature Based Solutions Sustainable Urban",
+      "link": "https://oppla.eu/interlace/case-study/interlace-project-portoviejo-ecuador-using-nature-based-solutions-sustainable-urban",
+      "filename": "007_Interlace_Project_Portoviejo_Ecuador_Using_Nature_Based_Solutions_Sustainable_Ur.html",
+      "filepath": "raw_html_data\\007_Interlace_Project_Portoviejo_Ecuador_Using_Nature_Based_Solutions_Sustainable_Ur.html"
+    },
+    {
+      "title": "Interlace Project Metropolia Krakowska Poland Using Nature Based Solutions Enhance Urban",
+      "link": "https://oppla.eu/interlace/case-study/interlace-project-metropolia-krakowska-poland-using-nature-based-solutions-enhance-urban",
+      "filename": "008_Interlace_Project_Metropolia_Krakowska_Poland_Using_Nature_Based_Solutions_Enhan.html",
+      "filepath": "raw_html_data\\008_Interlace_Project_Metropolia_Krakowska_Poland_Using_Nature_Based_Solutions_Enhan.html"
+    },
+    {
+      "title": "Interlace Project Granollers Spain Using Nature Based Solutions Green Transformation",
+      "link": "https://oppla.eu/interlace/case-study/interlace-project-granollers-spain-using-nature-based-solutions-green-transformation",
+      "filename": "009_Interlace_Project_Granollers_Spain_Using_Nature_Based_Solutions_Green_Transforma.html",
+      "filepath": "raw_html_data\\009_Interlace_Project_Granollers_Spain_Using_Nature_Based_Solutions_Green_Transforma.html"
+    },
+    {
+      "title": "Interlace Project Envigado Colombia Using Nature Based Solutions Address Environmental",
+      "link": "https://oppla.eu/interlace/case-study/interlace-project-envigado-colombia-using-nature-based-solutions-address-environmental",
+      "filename": "010_Interlace_Project_Envigado_Colombia_Using_Nature_Based_Solutions_Address_Environ.html",
+      "filepath": "raw_html_data\\010_Interlace_Project_Envigado_Colombia_Using_Nature_Based_Solutions_Address_Environ.html"
+    },
+    {
+      "title": "Interlace Project El Corredor Biologico Interurbano Maria Aguilar Cbima Costa Rica Using",
+      "link": "https://oppla.eu/interlace/case-study/interlace-project-el-corredor-biologico-interurbano-maria-aguilar-cbima-costa-rica-using",
+      "filename": "011_Interlace_Project_El_Corredor_Biologico_Interurbano_Maria_Aguilar_Cbima_Costa_Ri.html",
+      "filepath": "raw_html_data\\011_Interlace_Project_El_Corredor_Biologico_Interurbano_Maria_Aguilar_Cbima_Costa_Ri.html"
+    },
+    {
+      "title": "Interlace Project Chemnitz Germany Engagement Education And Collaboration Advancing",
+      "link": "https://oppla.eu/interlace/case-study/interlace-project-chemnitz-germany-engagement-education-and-collaboration-advancing",
+      "filename": "012_Interlace_Project_Chemnitz_Germany_Engagement_Education_And_Collaboration_Advanc.html",
+      "filepath": "raw_html_data\\012_Interlace_Project_Chemnitz_Germany_Engagement_Education_And_Collaboration_Advanc.html"
+    },
+    {
+      "title": "H2020 Ponderful Lake Mogan Pondscape",
+      "link": "https://oppla.eu/ponderful/case-study/h2020-ponderful-lake-mogan-pondscape",
+      "filename": "013_H2020_Ponderful_Lake_Mogan_Pondscape.html",
+      "filepath": "raw_html_data\\013_H2020_Ponderful_Lake_Mogan_Pondscape.html"
+    },
+    {
+      "title": "H2020 Ponderful Golbasi Duzlugu Pondscape",
+      "link": "https://oppla.eu/ponderful/case-study/h2020-ponderful-golbasi-duzlugu-pondscape",
+      "filename": "014_H2020_Ponderful_Golbasi_Duzlugu_Pondscape.html",
+      "filepath": "raw_html_data\\014_H2020_Ponderful_Golbasi_Duzlugu_Pondscape.html"
+    },
+    {
+      "title": "H2020 Ponderful Imrahor River Valley Pondscape",
+      "link": "https://oppla.eu/ponderful/case-study/h2020-ponderful-imrahor-river-valley-pondscape",
+      "filename": "015_H2020_Ponderful_Imrahor_River_Valley_Pondscape.html",
+      "filepath": "raw_html_data\\015_H2020_Ponderful_Imrahor_River_Valley_Pondscape.html"
+    },
+    {
+      "title": "H2020 Ponderful Fyn Nbs Pondscape Biodiversity And People",
+      "link": "https://oppla.eu/ponderful/case-study/h2020-ponderful-fyn-nbs-pondscape-biodiversity-and-people",
+      "filename": "016_H2020_Ponderful_Fyn_Nbs_Pondscape_Biodiversity_And_People.html",
+      "filepath": "raw_html_data\\016_H2020_Ponderful_Fyn_Nbs_Pondscape_Biodiversity_And_People.html"
+    },
+    {
+      "title": "H2020 Ponderfulthe Lystrup Nbs Pondscape Flood Risk Reduction Biodiversity And People",
+      "link": "https://oppla.eu/ponderful/case-study/h2020-ponderfulthe-lystrup-nbs-pondscape-flood-risk-reduction-biodiversity-and-people",
+      "filename": "017_H2020_Ponderfulthe_Lystrup_Nbs_Pondscape_Flood_Risk_Reduction_Biodiversity_And_P.html",
+      "filepath": "raw_html_data\\017_H2020_Ponderfulthe_Lystrup_Nbs_Pondscape_Flood_Risk_Reduction_Biodiversity_And_P.html"
+    },
+    {
+      "title": "H2020 Ponderful Pinkhill Meadow Nbs Small Highly Valuable Floodplain Pondscape",
+      "link": "https://oppla.eu/ponderful/case-study/h2020-ponderful-pinkhill-meadow-nbs-small-highly-valuable-floodplain-pondscape",
+      "filename": "018_H2020_Ponderful_Pinkhill_Meadow_Nbs_Small_Highly_Valuable_Floodplain_Pondscape.html",
+      "filepath": "raw_html_data\\018_H2020_Ponderful_Pinkhill_Meadow_Nbs_Small_Highly_Valuable_Floodplain_Pondscape.html"
+    },
+    {
+      "title": "H2020 Ponderful Water Friendly Farming Nbs Pondscape Biodiversity And Multiple Ecosystem",
+      "link": "https://oppla.eu/ponderful/case-study/h2020-ponderful-water-friendly-farming-nbs-pondscape-biodiversity-and-multiple-ecosystem",
+      "filename": "019_H2020_Ponderful_Water_Friendly_Farming_Nbs_Pondscape_Biodiversity_And_Multiple_E.html",
+      "filepath": "raw_html_data\\019_H2020_Ponderful_Water_Friendly_Farming_Nbs_Pondscape_Biodiversity_And_Multiple_E.html"
+    },
+    {
+      "title": "Okologiai Szemleletu Zoldfelulet Fenntartas Fovarosi Punkosdfurdo Parkban",
+      "link": "https://oppla.eu/team-hub/case-study/okologiai-szemleletu-zoldfelulet-fenntartas-fovarosi-punkosdfurdo-parkban",
+      "filename": "020_Okologiai_Szemleletu_Zoldfelulet_Fenntartas_Fovarosi_Punkosdfurdo_Parkban.html",
+      "filepath": "raw_html_data\\020_Okologiai_Szemleletu_Zoldfelulet_Fenntartas_Fovarosi_Punkosdfurdo_Parkban.html"
+    },
+    {
+      "title": "H2020 Ponderful Tommelen Demosite",
+      "link": "https://oppla.eu/ponderful/case-study/h2020-ponderful-tommelen-demosite",
+      "filename": "021_H2020_Ponderful_Tommelen_Demosite.html",
+      "filepath": "raw_html_data\\021_H2020_Ponderful_Tommelen_Demosite.html"
+    },
+    {
+      "title": "H2020 Ponderful Grote Getevallei Demosite",
+      "link": "https://oppla.eu/ponderful/case-study/h2020-ponderful-grote-getevallei-demosite",
+      "filename": "022_H2020_Ponderful_Grote_Getevallei_Demosite.html",
+      "filepath": "raw_html_data\\022_H2020_Ponderful_Grote_Getevallei_Demosite.html"
+    },
+    {
+      "title": "H2020 Ponderful Pikhakendonk Demosite",
+      "link": "https://oppla.eu/ponderful/case-study/h2020-ponderful-pikhakendonk-demosite",
+      "filename": "023_H2020_Ponderful_Pikhakendonk_Demosite.html",
+      "filepath": "raw_html_data\\023_H2020_Ponderful_Pikhakendonk_Demosite.html"
+    },
+    {
+      "title": "H2020 Ponderful Uruguay Pondscape",
+      "link": "https://oppla.eu/ponderful/case-study/h2020-ponderful-uruguay-pondscape",
+      "filename": "024_H2020_Ponderful_Uruguay_Pondscape.html",
+      "filepath": "raw_html_data\\024_H2020_Ponderful_Uruguay_Pondscape.html"
+    },
+    {
+      "title": "H2020 Ponderful Schoneiche Demo Site",
+      "link": "https://oppla.eu/ponderful/case-study/h2020-ponderful-schoneiche-demo-site",
+      "filename": "025_H2020_Ponderful_Schoneiche_Demo_Site.html",
+      "filepath": "raw_html_data\\025_H2020_Ponderful_Schoneiche_Demo_Site.html"
+    },
+    {
+      "title": "H2020 Ponderful Restauration Natural Hydrological Functioning Through Drainage Removal",
+      "link": "https://oppla.eu/ponderful/case-study/h2020-ponderful-restauration-natural-hydrological-functioning-through-drainage-removal",
+      "filename": "026_H2020_Ponderful_Restauration_Natural_Hydrological_Functioning_Through_Drainage_R.html",
+      "filepath": "raw_html_data\\026_H2020_Ponderful_Restauration_Natural_Hydrological_Functioning_Through_Drainage_R.html"
+    },
+    {
+      "title": "H2020 Ponderful Deurbanization La Pletera",
+      "link": "https://oppla.eu/ponderful/case-study/h2020-ponderful-deurbanization-la-pletera",
+      "filename": "027_H2020_Ponderful_Deurbanization_La_Pletera.html",
+      "filepath": "raw_html_data\\027_H2020_Ponderful_Deurbanization_La_Pletera.html"
+    },
+    {
+      "title": "H2020 Ponderful Bois De Jussy Nbs Pondscape Biodiversity And People",
+      "link": "https://oppla.eu/ponderful/case-study/h2020-ponderful-bois-de-jussy-nbs-pondscape-biodiversity-and-people",
+      "filename": "028_H2020_Ponderful_Bois_De_Jussy_Nbs_Pondscape_Biodiversity_And_People.html",
+      "filepath": "raw_html_data\\028_H2020_Ponderful_Bois_De_Jussy_Nbs_Pondscape_Biodiversity_And_People.html"
+    },
+    {
+      "title": "H2020 Ponderful Rhone Genevois Nbs Multifunctionality Pondscape Scale",
+      "link": "https://oppla.eu/ponderful/case-study/h2020-ponderful-rhone-genevois-nbs-multifunctionality-pondscape-scale",
+      "filename": "029_H2020_Ponderful_Rhone_Genevois_Nbs_Multifunctionality_Pondscape_Scale.html",
+      "filepath": "raw_html_data\\029_H2020_Ponderful_Rhone_Genevois_Nbs_Multifunctionality_Pondscape_Scale.html"
+    },
+    {
+      "title": "Conexus 61 Valdocco Vivibile Nbs Liveable And Climate Proof Neighbourhoods Turin",
+      "link": "https://oppla.eu/conexus/case-study/conexus-61-valdocco-vivibile-nbs-liveable-and-climate-proof-neighbourhoods-turin",
+      "filename": "030_Conexus_61_Valdocco_Vivibile_Nbs_Liveable_And_Climate_Proof_Neighbourhoods_Turin.html",
+      "filepath": "raw_html_data\\030_Conexus_61_Valdocco_Vivibile_Nbs_Liveable_And_Climate_Proof_Neighbourhoods_Turin.html"
+    },
+    {
+      "title": "Conexus 61 Restoring Protecting And Maintaining Thriving Urban Forests Three Pilots City",
+      "link": "https://oppla.eu/conexus/case-study/conexus-61-restoring-protecting-and-maintaining-thriving-urban-forests-three-pilots-city",
+      "filename": "031_Conexus_61_Restoring_Protecting_And_Maintaining_Thriving_Urban_Forests_Three_Pil.html",
+      "filepath": "raw_html_data\\031_Conexus_61_Restoring_Protecting_And_Maintaining_Thriving_Urban_Forests_Three_Pil.html"
+    },
+    {
+      "title": "Conexus 61 Laboratorio Biourbano Santiago De Chile",
+      "link": "https://oppla.eu/conexus/case-study/conexus-61-laboratorio-biourbano-santiago-de-chile",
+      "filename": "032_Conexus_61_Laboratorio_Biourbano_Santiago_De_Chile.html",
+      "filepath": "raw_html_data\\032_Conexus_61_Laboratorio_Biourbano_Santiago_De_Chile.html"
+    },
+    {
+      "title": "Conexus 61 Lisgreen Re Naturing Urban Spaces Lisbon",
+      "link": "https://oppla.eu/conexus/case-study/conexus-61-lisgreen-re-naturing-urban-spaces-lisbon",
+      "filename": "033_Conexus_61_Lisgreen_Re_Naturing_Urban_Spaces_Lisbon.html",
+      "filepath": "raw_html_data\\033_Conexus_61_Lisgreen_Re_Naturing_Urban_Spaces_Lisbon.html"
+    },
+    {
+      "title": "Conexus 61 Restoring Hydro Social Systems Southern And Northern Borders Bogota",
+      "link": "https://oppla.eu/conexus/case-study/conexus-61-restoring-hydro-social-systems-southern-and-northern-borders-bogota",
+      "filename": "034_Conexus_61_Restoring_Hydro_Social_Systems_Southern_And_Northern_Borders_Bogota.html",
+      "filepath": "raw_html_data\\034_Conexus_61_Restoring_Hydro_Social_Systems_Southern_And_Northern_Borders_Bogota.html"
+    },
+    {
+      "title": "Conexus 61 Observatori Dagricultura Urbana Barcelonas Urban Agriculture Observatory",
+      "link": "https://oppla.eu/conexus/case-study/conexus-61-observatori-dagricultura-urbana-barcelonas-urban-agriculture-observatory",
+      "filename": "035_Conexus_61_Observatori_Dagricultura_Urbana_Barcelonas_Urban_Agriculture_Observat.html",
+      "filepath": "raw_html_data\\035_Conexus_61_Observatori_Dagricultura_Urbana_Barcelonas_Urban_Agriculture_Observat.html"
+    },
+    {
+      "title": "Esokertek Kecskemeten",
+      "link": "https://oppla.eu/team-hub/case-study/esokertek-kecskemeten",
+      "filename": "036_Esokertek_Kecskemeten.html",
+      "filepath": "raw_html_data\\036_Esokertek_Kecskemeten.html"
+    },
+    {
+      "title": "Conexus 61 Enhancing Urban Biodiversity Through Learning Communities City Buenos Aires",
+      "link": "https://oppla.eu/conexus/case-study/conexus-61-enhancing-urban-biodiversity-through-learning-communities-city-buenos-aires",
+      "filename": "037_Conexus_61_Enhancing_Urban_Biodiversity_Through_Learning_Communities_City_Buenos.html",
+      "filepath": "raw_html_data\\037_Conexus_61_Enhancing_Urban_Biodiversity_Through_Learning_Communities_City_Buenos.html"
+    },
+    {
+      "title": "Clever Way Hamburg Neugraben Fischbek",
+      "link": "https://oppla.eu/clever-cities/case-study/clever-way-hamburg-neugraben-fischbek",
+      "filename": "038_Clever_Way_Hamburg_Neugraben_Fischbek.html",
+      "filepath": "raw_html_data\\038_Clever_Way_Hamburg_Neugraben_Fischbek.html"
+    },
+    {
+      "title": "Greening Milan Innovating Urban Spaces Through Nature Based Solutions",
+      "link": "https://oppla.eu/clever-cities/case-study/greening-milan-innovating-urban-spaces-through-nature-based-solutions",
+      "filename": "039_Greening_Milan_Innovating_Urban_Spaces_Through_Nature_Based_Solutions.html",
+      "filepath": "raw_html_data\\039_Greening_Milan_Innovating_Urban_Spaces_Through_Nature_Based_Solutions.html"
+    },
+    {
+      "title": "Talajelet Biologiai Sokszinusegenek Novelese Es Fenntarthato Videki Elet Nepszerusitese",
+      "link": "https://oppla.eu/team-hub/case-study/talajelet-biologiai-sokszinusegenek-novelese-es-fenntarthato-videki-elet-nepszerusitese",
+      "filename": "040_Talajelet_Biologiai_Sokszinusegenek_Novelese_Es_Fenntarthato_Videki_Elet_Nepszer.html",
+      "filepath": "raw_html_data\\040_Talajelet_Biologiai_Sokszinusegenek_Novelese_Es_Fenntarthato_Videki_Elet_Nepszer.html"
+    },
+    {
+      "title": "Izmir Turkey Re Naturing Urban Plan Nbs",
+      "link": "https://oppla.eu/urban-greenup/case-study/izmir-turkey-re-naturing-urban-plan-nbs",
+      "filename": "041_Izmir_Turkey_Re_Naturing_Urban_Plan_Nbs.html",
+      "filepath": "raw_html_data\\041_Izmir_Turkey_Re_Naturing_Urban_Plan_Nbs.html"
+    },
+    {
+      "title": "Co Creation Urbinat Healthy Corridor Nova Gorica Slovenia",
+      "link": "https://oppla.eu/urbinat/case-study/co-creation-urbinat-healthy-corridor-nova-gorica-slovenia",
+      "filename": "042_Co_Creation_Urbinat_Healthy_Corridor_Nova_Gorica_Slovenia.html",
+      "filepath": "raw_html_data\\042_Co_Creation_Urbinat_Healthy_Corridor_Nova_Gorica_Slovenia.html"
+    },
+    {
+      "title": "Magas Termeszeti Erteku Gyepteruletek Megorzese Szenes Legelon Es Mas Dunantuli",
+      "link": "https://oppla.eu/team-hub/case-study/magas-termeszeti-erteku-gyepteruletek-megorzese-szenes-legelon-es-mas-dunantuli",
+      "filename": "043_Magas_Termeszeti_Erteku_Gyepteruletek_Megorzese_Szenes_Legelon_Es_Mas_Dunantuli.html",
+      "filepath": "raw_html_data\\043_Magas_Termeszeti_Erteku_Gyepteruletek_Megorzese_Szenes_Legelon_Es_Mas_Dunantuli.html"
+    },
+    {
+      "title": "Co Creation Urbinat Healthy Corridor Neder Over Heembeek Brussels",
+      "link": "https://oppla.eu/urbinat/case-study/co-creation-urbinat-healthy-corridor-neder-over-heembeek-brussels",
+      "filename": "044_Co_Creation_Urbinat_Healthy_Corridor_Neder_Over_Heembeek_Brussels.html",
+      "filepath": "raw_html_data\\044_Co_Creation_Urbinat_Healthy_Corridor_Neder_Over_Heembeek_Brussels.html"
+    },
+    {
+      "title": "Co Creation Urbinat Healthy Corridor Siena",
+      "link": "https://oppla.eu/urbinat/case-study/co-creation-urbinat-healthy-corridor-siena",
+      "filename": "045_Co_Creation_Urbinat_Healthy_Corridor_Siena.html",
+      "filepath": "raw_html_data\\045_Co_Creation_Urbinat_Healthy_Corridor_Siena.html"
+    },
+    {
+      "title": "Co Creation Urbinat Healthy Corridor Nantes Nord Nantes",
+      "link": "https://oppla.eu/urbinat/case-study/co-creation-urbinat-healthy-corridor-nantes-nord-nantes",
+      "filename": "046_Co_Creation_Urbinat_Healthy_Corridor_Nantes_Nord_Nantes.html",
+      "filepath": "raw_html_data\\046_Co_Creation_Urbinat_Healthy_Corridor_Nantes_Nord_Nantes.html"
+    },
+    {
+      "title": "Co Creation Urbinat Healthy Corridor Nadezhda Sofia",
+      "link": "https://oppla.eu/urbinat/case-study/co-creation-urbinat-healthy-corridor-nadezhda-sofia",
+      "filename": "047_Co_Creation_Urbinat_Healthy_Corridor_Nadezhda_Sofia.html",
+      "filepath": "raw_html_data\\047_Co_Creation_Urbinat_Healthy_Corridor_Nadezhda_Sofia.html"
+    },
+    {
+      "title": "Co Creation Urbinat Healthy Corridor Campana Porto",
+      "link": "https://oppla.eu/urbinat/case-study/co-creation-urbinat-healthy-corridor-campana-porto",
+      "filename": "048_Co_Creation_Urbinat_Healthy_Corridor_Campana_Porto.html",
+      "filepath": "raw_html_data\\048_Co_Creation_Urbinat_Healthy_Corridor_Campana_Porto.html"
+    },
+    {
+      "title": "Co Creation Urbinat Healthy Corridor Hoje Taastrup Copenhagen",
+      "link": "https://oppla.eu/urbinat/case-study/co-creation-urbinat-healthy-corridor-hoje-taastrup-copenhagen",
+      "filename": "049_Co_Creation_Urbinat_Healthy_Corridor_Hoje_Taastrup_Copenhagen.html",
+      "filepath": "raw_html_data\\049_Co_Creation_Urbinat_Healthy_Corridor_Hoje_Taastrup_Copenhagen.html"
+    },
+    {
+      "title": "Termeszetes Vizmegtartas Civil Osszefogassal Homokhatsagon",
+      "link": "https://oppla.eu/team-hub/case-study/termeszetes-vizmegtartas-civil-osszefogassal-homokhatsagon",
+      "filename": "050_Termeszetes_Vizmegtartas_Civil_Osszefogassal_Homokhatsagon.html",
+      "filepath": "raw_html_data\\050_Termeszetes_Vizmegtartas_Civil_Osszefogassal_Homokhatsagon.html"
+    },
+    {
+      "title": "Nature Based Solutions Valencia Better Benicalap Greener And More Sustainable",
+      "link": "https://oppla.eu/growgreen/case-study/nature-based-solutions-valencia-better-benicalap-greener-and-more-sustainable",
+      "filename": "051_Nature_Based_Solutions_Valencia_Better_Benicalap_Greener_And_More_Sustainable.html",
+      "filepath": "raw_html_data\\051_Nature_Based_Solutions_Valencia_Better_Benicalap_Greener_And_More_Sustainable.html"
+    },
+    {
+      "title": "Nature Based Solutions Wroclaw Renovated Courtyards And Green Streets",
+      "link": "https://oppla.eu/growgreen/case-study/nature-based-solutions-wroclaw-renovated-courtyards-and-green-streets",
+      "filename": "052_Nature_Based_Solutions_Wroclaw_Renovated_Courtyards_And_Green_Streets.html",
+      "filepath": "raw_html_data\\052_Nature_Based_Solutions_Wroclaw_Renovated_Courtyards_And_Green_Streets.html"
+    },
+    {
+      "title": "Digital Beehive",
+      "link": "https://oppla.eu/edicitnet/case-study/digital-beehive",
+      "filename": "053_Digital_Beehive.html",
+      "filepath": "raw_html_data\\053_Digital_Beehive.html"
+    },
+    {
+      "title": "Community Supported Agriculture Group",
+      "link": "https://oppla.eu/edicitnet/case-study/community-supported-agriculture-group",
+      "filename": "054_Community_Supported_Agriculture_Group.html",
+      "filepath": "raw_html_data\\054_Community_Supported_Agriculture_Group.html"
+    },
+    {
+      "title": "Linderud Community Garden",
+      "link": "https://oppla.eu/edicitnet/case-study/linderud-community-garden",
+      "filename": "055_Linderud_Community_Garden.html",
+      "filepath": "raw_html_data\\055_Linderud_Community_Garden.html"
+    },
+    {
+      "title": "Edible Landscaping",
+      "link": "https://oppla.eu/edicitnet/case-study/edible-landscaping",
+      "filename": "056_Edible_Landscaping.html",
+      "filepath": "raw_html_data\\056_Edible_Landscaping.html"
+    },
+    {
+      "title": "Cemetery Conversion",
+      "link": "https://oppla.eu/edicitnet/case-study/cemetery-conversion",
+      "filename": "057_Cemetery_Conversion.html",
+      "filepath": "raw_html_data\\057_Cemetery_Conversion.html"
+    },
+    {
+      "title": "Beepathnet Varosi Meheszet Mehbarat Kerulet Program Budapest Xii Keruleteben",
+      "link": "https://oppla.eu/team-hub/case-study/beepathnet-varosi-meheszet-mehbarat-kerulet-program-budapest-xii-keruleteben",
+      "filename": "058_Beepathnet_Varosi_Meheszet_Mehbarat_Kerulet_Program_Budapest_Xii_Keruleteben.html",
+      "filepath": "raw_html_data\\058_Beepathnet_Varosi_Meheszet_Mehbarat_Kerulet_Program_Budapest_Xii_Keruleteben.html"
+    },
+    {
+      "title": "Ruzsa Alkalmazkodas Az Eghajlatvaltozashoz Szurkeviz Visszatartassal Homokhatsagon",
+      "link": "https://oppla.eu/team-hub/case-study/ruzsa-alkalmazkodas-az-eghajlatvaltozashoz-szurkeviz-visszatartassal-homokhatsagon",
+      "filename": "059_Ruzsa_Alkalmazkodas_Az_Eghajlatvaltozashoz_Szurkeviz_Visszatartassal_Homokhatsag.html",
+      "filepath": "raw_html_data\\059_Ruzsa_Alkalmazkodas_Az_Eghajlatvaltozashoz_Szurkeviz_Visszatartassal_Homokhatsag.html"
+    },
+    {
+      "title": "Crop Wild Relatives",
+      "link": "https://oppla.eu/nordic-hub/case-study/crop-wild-relatives",
+      "filename": "060_Crop_Wild_Relatives.html",
+      "filepath": "raw_html_data\\060_Crop_Wild_Relatives.html"
+    },
+    {
+      "title": "Erosion Protection Nature Based Solutions Norway",
+      "link": "https://oppla.eu/nordic-hub/case-study/erosion-protection-nature-based-solutions-norway",
+      "filename": "061_Erosion_Protection_Nature_Based_Solutions_Norway.html",
+      "filepath": "raw_html_data\\061_Erosion_Protection_Nature_Based_Solutions_Norway.html"
+    },
+    {
+      "title": "Multifunctional Wetlands Aland",
+      "link": "https://oppla.eu/nordic-hub/case-study/multifunctional-wetlands-aland",
+      "filename": "062_Multifunctional_Wetlands_Aland.html",
+      "filepath": "raw_html_data\\062_Multifunctional_Wetlands_Aland.html"
+    },
+    {
+      "title": "More Nature Less Waste",
+      "link": "https://oppla.eu/nordic-hub/case-study/more-nature-less-waste",
+      "filename": "063_More_Nature_Less_Waste.html",
+      "filepath": "raw_html_data\\063_More_Nature_Less_Waste.html"
+    },
+    {
+      "title": "Stream And Watershed Restoration Finland",
+      "link": "https://oppla.eu/nordic-hub/case-study/stream-and-watershed-restoration-finland",
+      "filename": "064_Stream_And_Watershed_Restoration_Finland.html",
+      "filepath": "raw_html_data\\064_Stream_And_Watershed_Restoration_Finland.html"
+    },
+    {
+      "title": "Multifunctional Land Distribution Denmark",
+      "link": "https://oppla.eu/nordic-hub/case-study/multifunctional-land-distribution-denmark",
+      "filename": "065_Multifunctional_Land_Distribution_Denmark.html",
+      "filepath": "raw_html_data\\065_Multifunctional_Land_Distribution_Denmark.html"
+    },
+    {
+      "title": "Biodiversity Urban And Coastal Areas Iceland",
+      "link": "https://oppla.eu/nordic-hub/case-study/biodiversity-urban-and-coastal-areas-iceland",
+      "filename": "066_Biodiversity_Urban_And_Coastal_Areas_Iceland.html",
+      "filepath": "raw_html_data\\066_Biodiversity_Urban_And_Coastal_Areas_Iceland.html"
+    },
+    {
+      "title": "Tiszatarjan Fenntarthato Gazdalkodas Es Vizvisszatartas Az Arteren Klimaalkalmazkodas",
+      "link": "https://oppla.eu/team-hub/case-study/tiszatarjan-fenntarthato-gazdalkodas-es-vizvisszatartas-az-arteren-klimaalkalmazkodas",
+      "filename": "067_Tiszatarjan_Fenntarthato_Gazdalkodas_Es_Vizvisszatartas_Az_Arteren_Klimaalkalmaz.html",
+      "filepath": "raw_html_data\\067_Tiszatarjan_Fenntarthato_Gazdalkodas_Es_Vizvisszatartas_Az_Arteren_Klimaalkalmaz.html"
+    },
+    {
+      "title": "Rakocziujfalu Termeszetkozeli Belviz Visszatartas Szarazsag Mersekleseert",
+      "link": "https://oppla.eu/team-hub/case-study/rakocziujfalu-termeszetkozeli-belviz-visszatartas-szarazsag-mersekleseert",
+      "filename": "068_Rakocziujfalu_Termeszetkozeli_Belviz_Visszatartas_Szarazsag_Mersekleseert.html",
+      "filepath": "raw_html_data\\068_Rakocziujfalu_Termeszetkozeli_Belviz_Visszatartas_Szarazsag_Mersekleseert.html"
+    },
+    {
+      "title": "Batya Belteruleti Csapadekesemenyek Kezelese Tobbmedences Csapadekviz Taplalta Vizes",
+      "link": "https://oppla.eu/team-hub/case-study/batya-belteruleti-csapadekesemenyek-kezelese-tobbmedences-csapadekviz-taplalta-vizes",
+      "filename": "069_Batya_Belteruleti_Csapadekesemenyek_Kezelese_Tobbmedences_Csapadekviz_Taplalta_V.html",
+      "filepath": "raw_html_data\\069_Batya_Belteruleti_Csapadekesemenyek_Kezelese_Tobbmedences_Csapadekviz_Taplalta_V.html"
+    },
+    {
+      "title": "First Large Land Restoration Initiative Faroe Islands",
+      "link": "https://oppla.eu/nordic-hub/case-study/first-large-land-restoration-initiative-faroe-islands",
+      "filename": "070_First_Large_Land_Restoration_Initiative_Faroe_Islands.html",
+      "filepath": "raw_html_data\\070_First_Large_Land_Restoration_Initiative_Faroe_Islands.html"
+    },
+    {
+      "title": "Eso Es Szurkeviz Hasznositas Zugloi Hetszinvirag Ovodaban",
+      "link": "https://oppla.eu/team-hub/case-study/eso-es-szurkeviz-hasznositas-zugloi-hetszinvirag-ovodaban",
+      "filename": "071_Eso_Es_Szurkeviz_Hasznositas_Zugloi_Hetszinvirag_Ovodaban.html",
+      "filepath": "raw_html_data\\071_Eso_Es_Szurkeviz_Hasznositas_Zugloi_Hetszinvirag_Ovodaban.html"
+    },
+    {
+      "title": "Floating Wetland System Uto",
+      "link": "https://oppla.eu/nordic-hub/case-study/floating-wetland-system-uto",
+      "filename": "072_Floating_Wetland_System_Uto.html",
+      "filepath": "raw_html_data\\072_Floating_Wetland_System_Uto.html"
+    },
+    {
+      "title": "Progireg Info Center",
+      "link": "https://oppla.eu/progireg/case-study/progireg-info-center",
+      "filename": "073_Progireg_Info_Center.html",
+      "filepath": "raw_html_data\\073_Progireg_Info_Center.html"
+    },
+    {
+      "title": "Puspokszilagy Alkalmazkodas Klimavaltozashoz Lefolyas Lassitassal Es Vizvisszatartason",
+      "link": "https://oppla.eu/team-hub/case-study/puspokszilagy-alkalmazkodas-klimavaltozashoz-lefolyas-lassitassal-es-vizvisszatartason",
+      "filename": "074_Puspokszilagy_Alkalmazkodas_Klimavaltozashoz_Lefolyas_Lassitassal_Es_Vizvisszata.html",
+      "filepath": "raw_html_data\\074_Puspokszilagy_Alkalmazkodas_Klimavaltozashoz_Lefolyas_Lassitassal_Es_Vizvisszata.html"
+    },
+    {
+      "title": "Urban Forests And Promotion Native Ecosystems Sao Paulo Brazil",
+      "link": "https://oppla.eu/conexus/case-study/urban-forests-and-promotion-native-ecosystems-sao-paulo-brazil",
+      "filename": "075_Urban_Forests_And_Promotion_Native_Ecosystems_Sao_Paulo_Brazil.html",
+      "filepath": "raw_html_data\\075_Urban_Forests_And_Promotion_Native_Ecosystems_Sao_Paulo_Brazil.html"
+    },
+    {
+      "title": "Nature Based Solutions Improving Well Being Urban Areas Sheffield United Kingdom",
+      "link": "https://oppla.eu/conexus/case-study/nature-based-solutions-improving-well-being-urban-areas-sheffield-united-kingdom",
+      "filename": "076_Nature_Based_Solutions_Improving_Well_Being_Urban_Areas_Sheffield_United_Kingdom.html",
+      "filepath": "raw_html_data\\076_Nature_Based_Solutions_Improving_Well_Being_Urban_Areas_Sheffield_United_Kingdom.html"
+    },
+    {
+      "title": "Santiago Green Infrastructure Plan Towards Green Infrastructure System",
+      "link": "https://oppla.eu/conexus/case-study/santiago-green-infrastructure-plan-towards-green-infrastructure-system",
+      "filename": "077_Santiago_Green_Infrastructure_Plan_Towards_Green_Infrastructure_System.html",
+      "filepath": "raw_html_data\\077_Santiago_Green_Infrastructure_Plan_Towards_Green_Infrastructure_System.html"
+    },
+    {
+      "title": "Green Roofs Slums Rio De Janeiro Brazil",
+      "link": "https://oppla.eu/conexus/case-study/green-roofs-slums-rio-de-janeiro-brazil",
+      "filename": "078_Green_Roofs_Slums_Rio_De_Janeiro_Brazil.html",
+      "filepath": "raw_html_data\\078_Green_Roofs_Slums_Rio_De_Janeiro_Brazil.html"
+    },
+    {
+      "title": "Heritage Zone Xochimilco Tlahuac And Milpa Alta Mexico City Importance Nature Based",
+      "link": "https://oppla.eu/conexus/case-study/heritage-zone-xochimilco-tlahuac-and-milpa-alta-mexico-city-importance-nature-based",
+      "filename": "079_Heritage_Zone_Xochimilco_Tlahuac_And_Milpa_Alta_Mexico_City_Importance_Nature_Ba.html",
+      "filepath": "raw_html_data\\079_Heritage_Zone_Xochimilco_Tlahuac_And_Milpa_Alta_Mexico_City_Importance_Nature_Ba.html"
+    },
+    {
+      "title": "Quito Urban Agriculture Nature Based Solution Facing Climate Change And Food Sovereignty",
+      "link": "https://oppla.eu/conexus/case-study/quito-urban-agriculture-nature-based-solution-facing-climate-change-and-food-sovereignty",
+      "filename": "080_Quito_Urban_Agriculture_Nature_Based_Solution_Facing_Climate_Change_And_Food_Sov.html",
+      "filepath": "raw_html_data\\080_Quito_Urban_Agriculture_Nature_Based_Solution_Facing_Climate_Change_And_Food_Sov.html"
+    },
+    {
+      "title": "Socio Ecological Urban River Restoration Mitigate Flood Risk Improve Recreational",
+      "link": "https://oppla.eu/conexus/case-study/socio-ecological-urban-river-restoration-mitigate-flood-risk-improve-recreational",
+      "filename": "081_Socio_Ecological_Urban_River_Restoration_Mitigate_Flood_Risk_Improve_Recreationa.html",
+      "filepath": "raw_html_data\\081_Socio_Ecological_Urban_River_Restoration_Mitigate_Flood_Risk_Improve_Recreationa.html"
+    },
+    {
+      "title": "Multisectoral And Multiscale Articulation Urban Regeneration Medellin And Its",
+      "link": "https://oppla.eu/conexus/case-study/multisectoral-and-multiscale-articulation-urban-regeneration-medellin-and-its",
+      "filename": "082_Multisectoral_And_Multiscale_Articulation_Urban_Regeneration_Medellin_And_Its.html",
+      "filepath": "raw_html_data\\082_Multisectoral_And_Multiscale_Articulation_Urban_Regeneration_Medellin_And_Its.html"
+    },
+    {
+      "title": "City Districts Testing Grounds Integrated Sustainable Stormwater Solutions Through",
+      "link": "https://oppla.eu/conexus/case-study/city-districts-testing-grounds-integrated-sustainable-stormwater-solutions-through",
+      "filename": "083_City_Districts_Testing_Grounds_Integrated_Sustainable_Stormwater_Solutions_Throu.html",
+      "filepath": "raw_html_data\\083_City_Districts_Testing_Grounds_Integrated_Sustainable_Stormwater_Solutions_Throu.html"
+    },
+    {
+      "title": "Wetland Baquedano Park City Llanquihue Chile",
+      "link": "https://oppla.eu/conexus/case-study/wetland-baquedano-park-city-llanquihue-chile",
+      "filename": "084_Wetland_Baquedano_Park_City_Llanquihue_Chile.html",
+      "filepath": "raw_html_data\\084_Wetland_Baquedano_Park_City_Llanquihue_Chile.html"
+    },
+    {
+      "title": "Green Corridors Network Background Nbs Approach Lisbon Portugal",
+      "link": "https://oppla.eu/conexus/case-study/green-corridors-network-background-nbs-approach-lisbon-portugal",
+      "filename": "085_Green_Corridors_Network_Background_Nbs_Approach_Lisbon_Portugal.html",
+      "filepath": "raw_html_data\\085_Green_Corridors_Network_Background_Nbs_Approach_Lisbon_Portugal.html"
+    },
+    {
+      "title": "Nature Based Solutions Integral And Multiscale Responses Social And Environmental",
+      "link": "https://oppla.eu/conexus/case-study/nature-based-solutions-integral-and-multiscale-responses-social-and-environmental",
+      "filename": "086_Nature_Based_Solutions_Integral_And_Multiscale_Responses_Social_And_Environmenta.html",
+      "filepath": "raw_html_data\\086_Nature_Based_Solutions_Integral_And_Multiscale_Responses_Social_And_Environmenta.html"
+    },
+    {
+      "title": "Sweet City Facing Climate Change And Biodiversity Loss Urban Costa Rica",
+      "link": "https://oppla.eu/conexus/case-study/sweet-city-facing-climate-change-and-biodiversity-loss-urban-costa-rica",
+      "filename": "087_Sweet_City_Facing_Climate_Change_And_Biodiversity_Loss_Urban_Costa_Rica.html",
+      "filepath": "raw_html_data\\087_Sweet_City_Facing_Climate_Change_And_Biodiversity_Loss_Urban_Costa_Rica.html"
+    },
+    {
+      "title": "Living Fences Buenos Aires Improving Quality Air",
+      "link": "https://oppla.eu/conexus/case-study/living-fences-buenos-aires-improving-quality-air",
+      "filename": "088_Living_Fences_Buenos_Aires_Improving_Quality_Air.html",
+      "filepath": "raw_html_data\\088_Living_Fences_Buenos_Aires_Improving_Quality_Air.html"
+    },
+    {
+      "title": "Socio Ecological Networks Nbs Integrate Nature Urban Planning And Social Appropriation",
+      "link": "https://oppla.eu/conexus/case-study/socio-ecological-networks-nbs-integrate-nature-urban-planning-and-social-appropriation",
+      "filename": "089_Socio_Ecological_Networks_Nbs_Integrate_Nature_Urban_Planning_And_Social_Appropr.html",
+      "filepath": "raw_html_data\\089_Socio_Ecological_Networks_Nbs_Integrate_Nature_Urban_Planning_And_Social_Appropr.html"
+    },
+    {
+      "title": "Urban Gardens Barcelona Multifunctional Green Enhance Nature Based Thinking Cities",
+      "link": "https://oppla.eu/conexus/case-study/urban-gardens-barcelona-multifunctional-green-enhance-nature-based-thinking-cities",
+      "filename": "090_Urban_Gardens_Barcelona_Multifunctional_Green_Enhance_Nature_Based_Thinking_Citi.html",
+      "filepath": "raw_html_data\\090_Urban_Gardens_Barcelona_Multifunctional_Green_Enhance_Nature_Based_Thinking_Citi.html"
+    },
+    {
+      "title": "Fushan Ecological Park Qingdao Shandong Province China",
+      "link": "https://oppla.eu/clearing-house/case-study/fushan-ecological-park-qingdao-shandong-province-china",
+      "filename": "091_Fushan_Ecological_Park_Qingdao_Shandong_Province_China.html",
+      "filepath": "raw_html_data\\091_Fushan_Ecological_Park_Qingdao_Shandong_Province_China.html"
+    },
+    {
+      "title": "Bois De Vincennes Vincennes Forest Paris France",
+      "link": "https://oppla.eu/clearing-house/case-study/bois-de-vincennes-vincennes-forest-paris-france",
+      "filename": "092_Bois_De_Vincennes_Vincennes_Forest_Paris_France.html",
+      "filepath": "raw_html_data\\092_Bois_De_Vincennes_Vincennes_Forest_Paris_France.html"
+    },
+    {
+      "title": "Aarhus City Perspective Regreen Urban Living Lab Denmark",
+      "link": "https://oppla.eu/clearing-house/case-study/aarhus-city-perspective-regreen-urban-living-lab-denmark",
+      "filename": "093_Aarhus_City_Perspective_Regreen_Urban_Living_Lab_Denmark.html",
+      "filepath": "raw_html_data\\093_Aarhus_City_Perspective_Regreen_Urban_Living_Lab_Denmark.html"
+    },
+    {
+      "title": "Parco Nord Milano Italy",
+      "link": "https://oppla.eu/clearing-house/case-study/parco-nord-milano-italy",
+      "filename": "094_Parco_Nord_Milano_Italy.html",
+      "filepath": "raw_html_data\\094_Parco_Nord_Milano_Italy.html"
+    },
+    {
+      "title": "Programme Baumstarke Stadt Leipzig Germany",
+      "link": "https://oppla.eu/clearing-house/case-study/programme-baumstarke-stadt-leipzig-germany",
+      "filename": "095_Programme_Baumstarke_Stadt_Leipzig_Germany.html",
+      "filepath": "raw_html_data\\095_Programme_Baumstarke_Stadt_Leipzig_Germany.html"
+    },
+    {
+      "title": "Vanhankaupunginlahti Old Town Bay Finland",
+      "link": "https://oppla.eu/clearing-house/case-study/vanhankaupunginlahti-old-town-bay-finland",
+      "filename": "096_Vanhankaupunginlahti_Old_Town_Bay_Finland.html",
+      "filepath": "raw_html_data\\096_Vanhankaupunginlahti_Old_Town_Bay_Finland.html"
+    },
+    {
+      "title": "Landscape Park Tivoli Roznik And Siska Hill Ljubljana Slovenia",
+      "link": "https://oppla.eu/clearing-house/case-study/landscape-park-tivoli-roznik-and-siska-hill-ljubljana-slovenia",
+      "filename": "097_Landscape_Park_Tivoli_Roznik_And_Siska_Hill_Ljubljana_Slovenia.html",
+      "filepath": "raw_html_data\\097_Landscape_Park_Tivoli_Roznik_And_Siska_Hill_Ljubljana_Slovenia.html"
+    },
+    {
+      "title": "Serra De Collserola Natural Park Barcelona Spain",
+      "link": "https://oppla.eu/clearing-house/case-study/serra-de-collserola-natural-park-barcelona-spain",
+      "filename": "098_Serra_De_Collserola_Natural_Park_Barcelona_Spain.html",
+      "filepath": "raw_html_data\\098_Serra_De_Collserola_Natural_Park_Barcelona_Spain.html"
+    },
+    {
+      "title": "Enhancement Cultural Ecosystem Services Park Forest Grmoscica Zagreb Croatia",
+      "link": "https://oppla.eu/clearing-house/case-study/enhancement-cultural-ecosystem-services-park-forest-grmoscica-zagreb-croatia",
+      "filename": "099_Enhancement_Cultural_Ecosystem_Services_Park_Forest_Grmoscica_Zagreb_Croatia.html",
+      "filepath": "raw_html_data\\099_Enhancement_Cultural_Ecosystem_Services_Park_Forest_Grmoscica_Zagreb_Croatia.html"
+    },
+    {
+      "title": "Beijing Plain Area Afforestation Programme Bpap Beijing China",
+      "link": "https://oppla.eu/clearing-house/case-study/beijing-plain-area-afforestation-programme-bpap-beijing-china",
+      "filename": "100_Beijing_Plain_Area_Afforestation_Programme_Bpap_Beijing_China.html",
+      "filepath": "raw_html_data\\100_Beijing_Plain_Area_Afforestation_Programme_Bpap_Beijing_China.html"
+    },
+    {
+      "title": "Green Lungs City Forest And Wetlands Park Yiwu Zhejiang Province China",
+      "link": "https://oppla.eu/clearing-house/case-study/green-lungs-city-forest-and-wetlands-park-yiwu-zhejiang-province-china",
+      "filename": "101_Green_Lungs_City_Forest_And_Wetlands_Park_Yiwu_Zhejiang_Province_China.html",
+      "filepath": "raw_html_data\\101_Green_Lungs_City_Forest_And_Wetlands_Park_Yiwu_Zhejiang_Province_China.html"
+    },
+    {
+      "title": "Green Wedges Jiaxing Zhejiang Province China",
+      "link": "https://oppla.eu/clearing-house/case-study/green-wedges-jiaxing-zhejiang-province-china",
+      "filename": "102_Green_Wedges_Jiaxing_Zhejiang_Province_China.html",
+      "filepath": "raw_html_data\\102_Green_Wedges_Jiaxing_Zhejiang_Province_China.html"
+    },
+    {
+      "title": "Meishan Dongpo Urban Wetland Park Sichuan Province China",
+      "link": "https://oppla.eu/clearing-house/case-study/meishan-dongpo-urban-wetland-park-sichuan-province-china",
+      "filename": "103_Meishan_Dongpo_Urban_Wetland_Park_Sichuan_Province_China.html",
+      "filepath": "raw_html_data\\103_Meishan_Dongpo_Urban_Wetland_Park_Sichuan_Province_China.html"
+    },
+    {
+      "title": "Fu Forest Trail Fuzhou China",
+      "link": "https://oppla.eu/clearing-house/case-study/fu-forest-trail-fuzhou-china",
+      "filename": "104_Fu_Forest_Trail_Fuzhou_China.html",
+      "filepath": "raw_html_data\\104_Fu_Forest_Trail_Fuzhou_China.html"
+    },
+    {
+      "title": "Water Haigh Woodland Park Lower River Aire Valley Leeds Uk",
+      "link": "https://oppla.eu/clearing-house/case-study/water-haigh-woodland-park-lower-river-aire-valley-leeds-uk",
+      "filename": "105_Water_Haigh_Woodland_Park_Lower_River_Aire_Valley_Leeds_Uk.html",
+      "filepath": "raw_html_data\\105_Water_Haigh_Woodland_Park_Lower_River_Aire_Valley_Leeds_Uk.html"
+    },
+    {
+      "title": "Landscape Park Duisburg Nord Germany",
+      "link": "https://oppla.eu/clearing-house/case-study/landscape-park-duisburg-nord-germany",
+      "filename": "106_Landscape_Park_Duisburg_Nord_Germany.html",
+      "filepath": "raw_html_data\\106_Landscape_Park_Duisburg_Nord_Germany.html"
+    },
+    {
+      "title": "Complex Three Parks Foreseen Site International Horticultural Exhibition 2024 Lodz",
+      "link": "https://oppla.eu/clearing-house/case-study/complex-three-parks-foreseen-site-international-horticultural-exhibition-2024-lodz",
+      "filename": "107_Complex_Three_Parks_Foreseen_Site_International_Horticultural_Exhibition_2024_Lo.html",
+      "filepath": "raw_html_data\\107_Complex_Three_Parks_Foreseen_Site_International_Horticultural_Exhibition_2024_Lo.html"
+    },
+    {
+      "title": "Enhancing Brussels Ecological Network Belgium",
+      "link": "https://oppla.eu/clearing-house/case-study/enhancing-brussels-ecological-network-belgium",
+      "filename": "108_Enhancing_Brussels_Ecological_Network_Belgium.html",
+      "filepath": "raw_html_data\\108_Enhancing_Brussels_Ecological_Network_Belgium.html"
+    },
+    {
+      "title": "Parkforest Ghent Belgium",
+      "link": "https://oppla.eu/clearing-house/case-study/parkforest-ghent-belgium",
+      "filename": "109_Parkforest_Ghent_Belgium.html",
+      "filepath": "raw_html_data\\109_Parkforest_Ghent_Belgium.html"
+    },
+    {
+      "title": "Peri Urban Forest Ostend Belgium",
+      "link": "https://oppla.eu/clearing-house/case-study/peri-urban-forest-ostend-belgium",
+      "filename": "110_Peri_Urban_Forest_Ostend_Belgium.html",
+      "filepath": "raw_html_data\\110_Peri_Urban_Forest_Ostend_Belgium.html"
+    },
+    {
+      "title": "Danube Auen National Park Vienna Austria",
+      "link": "https://oppla.eu/clearing-house/case-study/danube-auen-national-park-vienna-austria",
+      "filename": "111_Danube_Auen_National_Park_Vienna_Austria.html",
+      "filepath": "raw_html_data\\111_Danube_Auen_National_Park_Vienna_Austria.html"
+    },
+    {
+      "title": "L Braille Public Garden Bari Italy",
+      "link": "https://oppla.eu/clearing-house/case-study/l-braille-public-garden-bari-italy",
+      "filename": "112_L_Braille_Public_Garden_Bari_Italy.html",
+      "filepath": "raw_html_data\\112_L_Braille_Public_Garden_Bari_Italy.html"
+    },
+    {
+      "title": "Naturfelder Association",
+      "link": "https://oppla.eu/progireg/case-study/naturfelder-association",
+      "filename": "113_Naturfelder_Association.html",
+      "filepath": "raw_html_data\\113_Naturfelder_Association.html"
+    },
+    {
+      "title": "Mirafiori Sud Living Lab",
+      "link": "https://oppla.eu/progireg/case-study/mirafiori-sud-living-lab",
+      "filename": "114_Mirafiori_Sud_Living_Lab.html",
+      "filepath": "raw_html_data\\114_Mirafiori_Sud_Living_Lab.html"
+    },
+    {
+      "title": "London Nbs Leading Sustainable City",
+      "link": "https://oppla.eu/clever-cities/case-study/london-nbs-leading-sustainable-city",
+      "filename": "115_London_Nbs_Leading_Sustainable_City.html",
+      "filepath": "raw_html_data\\115_London_Nbs_Leading_Sustainable_City.html"
+    },
+    {
+      "title": "Lisbon Masterplan Vale De Alcantara Green Corridor",
+      "link": "https://oppla.eu/enroute/case-study/lisbon-masterplan-vale-de-alcantara-green-corridor",
+      "filename": "116_Lisbon_Masterplan_Vale_De_Alcantara_Green_Corridor.html",
+      "filepath": "raw_html_data\\116_Lisbon_Masterplan_Vale_De_Alcantara_Green_Corridor.html"
+    },
+    {
+      "title": "Transition Planning Parco Agricolo",
+      "link": "https://oppla.eu/turas/case-study/transition-planning-parco-agricolo",
+      "filename": "117_Transition_Planning_Parco_Agricolo.html",
+      "filepath": "raw_html_data\\117_Transition_Planning_Parco_Agricolo.html"
+    },
+    {
+      "title": "Studio Cureghem Brussels",
+      "link": "https://oppla.eu/turas/case-study/studio-cureghem-brussels",
+      "filename": "118_Studio_Cureghem_Brussels.html",
+      "filepath": "raw_html_data\\118_Studio_Cureghem_Brussels.html"
+    },
+    {
+      "title": "Regenerating Crown Barracks Brussels",
+      "link": "https://oppla.eu/turas/case-study/regenerating-crown-barracks-brussels",
+      "filename": "119_Regenerating_Crown_Barracks_Brussels.html",
+      "filepath": "raw_html_data\\119_Regenerating_Crown_Barracks_Brussels.html"
+    },
+    {
+      "title": "Participatory Reconversion Workshop",
+      "link": "https://oppla.eu/turas/case-study/participatory-reconversion-workshop",
+      "filename": "120_Participatory_Reconversion_Workshop.html",
+      "filepath": "raw_html_data\\120_Participatory_Reconversion_Workshop.html"
+    },
+    {
+      "title": "Operation Phosphore Brussels",
+      "link": "https://oppla.eu/turas/case-study/operation-phosphore-brussels",
+      "filename": "121_Operation_Phosphore_Brussels.html",
+      "filepath": "raw_html_data\\121_Operation_Phosphore_Brussels.html"
+    },
+    {
+      "title": "Malaga Strategy Workshops",
+      "link": "https://oppla.eu/turas/case-study/malaga-strategy-workshops",
+      "filename": "122_Malaga_Strategy_Workshops.html",
+      "filepath": "raw_html_data\\122_Malaga_Strategy_Workshops.html"
+    },
+    {
+      "title": "Greenroof Experiment Barking Riverside",
+      "link": "https://oppla.eu/turas/case-study/greenroof-experiment-barking-riverside",
+      "filename": "123_Greenroof_Experiment_Barking_Riverside.html",
+      "filepath": "raw_html_data\\123_Greenroof_Experiment_Barking_Riverside.html"
+    },
+    {
+      "title": "Green Living Room Ludwigsburg",
+      "link": "https://oppla.eu/turas/case-study/green-living-room-ludwigsburg",
+      "filename": "124_Green_Living_Room_Ludwigsburg.html",
+      "filepath": "raw_html_data\\124_Green_Living_Room_Ludwigsburg.html"
+    },
+    {
+      "title": "Discovering Community Resources Dublin",
+      "link": "https://oppla.eu/turas/case-study/discovering-community-resources-dublin",
+      "filename": "125_Discovering_Community_Resources_Dublin.html",
+      "filepath": "raw_html_data\\125_Discovering_Community_Resources_Dublin.html"
+    },
+    {
+      "title": "Custom Build Trent Basin",
+      "link": "https://oppla.eu/turas/case-study/custom-build-trent-basin",
+      "filename": "126_Custom_Build_Trent_Basin.html",
+      "filepath": "raw_html_data\\126_Custom_Build_Trent_Basin.html"
+    },
+    {
+      "title": "Creekmouth Heritage Trail",
+      "link": "https://oppla.eu/turas/case-study/creekmouth-heritage-trail",
+      "filename": "127_Creekmouth_Heritage_Trail.html",
+      "filepath": "raw_html_data\\127_Creekmouth_Heritage_Trail.html"
+    },
+    {
+      "title": "Connect Dots Observation Colab",
+      "link": "https://oppla.eu/turas/case-study/connect-dots-observation-colab",
+      "filename": "128_Connect_Dots_Observation_Colab.html",
+      "filepath": "raw_html_data\\128_Connect_Dots_Observation_Colab.html"
+    },
+    {
+      "title": "Community Involvement Sofia",
+      "link": "https://oppla.eu/turas/case-study/community-involvement-sofia",
+      "filename": "129_Community_Involvement_Sofia.html",
+      "filepath": "raw_html_data\\129_Community_Involvement_Sofia.html"
+    },
+    {
+      "title": "Collaborative Planning Nottingham",
+      "link": "https://oppla.eu/turas/case-study/collaborative-planning-nottingham",
+      "filename": "130_Collaborative_Planning_Nottingham.html",
+      "filepath": "raw_html_data\\130_Collaborative_Planning_Nottingham.html"
+    },
+    {
+      "title": "Climate Change Stresstest Schiedam",
+      "link": "https://oppla.eu/turas/case-study/climate-change-stresstest-schiedam",
+      "filename": "131_Climate_Change_Stresstest_Schiedam.html",
+      "filepath": "raw_html_data\\131_Climate_Change_Stresstest_Schiedam.html"
+    },
+    {
+      "title": "Barking Riverside Ecomimicry",
+      "link": "https://oppla.eu/turas/case-study/barking-riverside-ecomimicry",
+      "filename": "132_Barking_Riverside_Ecomimicry.html",
+      "filepath": "raw_html_data\\132_Barking_Riverside_Ecomimicry.html"
+    },
+    {
+      "title": "Community Interest Company Barking Riverside",
+      "link": "https://oppla.eu/turas/case-study/community-interest-company-barking-riverside",
+      "filename": "133_Community_Interest_Company_Barking_Riverside.html",
+      "filepath": "raw_html_data\\133_Community_Interest_Company_Barking_Riverside.html"
+    },
+    {
+      "title": "Quantifying Consequences Eu Water Policy Ecosystem Service Delivery Loch Leven Scotland",
+      "link": "https://oppla.eu/escom-scotland/case-study/quantifying-consequences-eu-water-policy-ecosystem-service-delivery-loch-leven-scotland",
+      "filename": "134_Quantifying_Consequences_Eu_Water_Policy_Ecosystem_Service_Delivery_Loch_Leven_S.html",
+      "filepath": "raw_html_data\\134_Quantifying_Consequences_Eu_Water_Policy_Ecosystem_Service_Delivery_Loch_Leven_S.html"
+    },
+    {
+      "title": "Improved Integrated Management Natural Resources Within Cairngorms National Park",
+      "link": "https://oppla.eu/escom-scotland/case-study/improved-integrated-management-natural-resources-within-cairngorms-national-park",
+      "filename": "135_Improved_Integrated_Management_Natural_Resources_Within_Cairngorms_National_Park.html",
+      "filepath": "raw_html_data\\135_Improved_Integrated_Management_Natural_Resources_Within_Cairngorms_National_Park.html"
+    },
+    {
+      "title": "Wine Exemplar Translating Consumer Values Environmental Structures And Functions",
+      "link": "https://oppla.eu/openness/case-study/wine-exemplar-translating-consumer-values-environmental-structures-and-functions",
+      "filename": "136_Wine_Exemplar_Translating_Consumer_Values_Environmental_Structures_And_Functions.html",
+      "filepath": "raw_html_data\\136_Wine_Exemplar_Translating_Consumer_Values_Environmental_Structures_And_Functions.html"
+    },
+    {
+      "title": "Scotland Inner Forth Coastal Realignment",
+      "link": "https://oppla.eu/escom-scotland/case-study/scotland-inner-forth-coastal-realignment",
+      "filename": "137_Scotland_Inner_Forth_Coastal_Realignment.html",
+      "filepath": "raw_html_data\\137_Scotland_Inner_Forth_Coastal_Realignment.html"
+    }
+  ],
+  "failed_files": [
+    {
+      "title": "Ille Occuro Usitas Verto Damnum Incassum Pecus Praemitto Refoveo Sit Voco",
+      "link": "https://oppla.eu/escom-scotland/case-study/ille-occuro-usitas-verto-damnum-incassum-pecus-praemitto-refoveo-sit-voco",
+      "error": "Exceeded 30 redirects."
+    }
+  ]
+}
