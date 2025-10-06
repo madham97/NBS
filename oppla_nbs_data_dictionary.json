@@ -1,0 +1,18 @@
+{
+  "title": "Project name as given in the source",
+  "summary": "2-4 sentence description of project purpose, actions, and context",
+  "status": "Current stage (planned|in-progress|completed|ongoing|unknown)",
+  "location_name": "City/region/named site where the NBS is located",
+  "country": "Country where the NBS is located",
+  "scale": "Geographic scale (site|neighborhood|city|watershed|regional)",
+  "solution_types": "Broad categories of NBS used",
+  "challenges_addressed": "Main problems the project aims to solve",
+  "health_linkages_primary": "Direct health outcomes linked to the NBS",
+  "impacts": "Documented outcomes (environmental, social, or economic)",
+  "governance": "Who is responsible for implementation/maintenance",
+  "url_source": "Link to original project page or source",
+  "environmental_context": "Broad context (urban|coastal|wetland|forest|agricultural)",
+  "data_source": "Source platform (oppla or unacity)",
+  "source_file": "Original HTML file processed",
+  "processed_date": "Date and time of data extraction"
+}
